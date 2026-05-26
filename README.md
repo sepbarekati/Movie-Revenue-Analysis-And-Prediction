@@ -7,7 +7,6 @@ This project explores the relationship between film attributes (such as budget, 
 
 ## Project Structure
 - `Clustring and Vanila Neural Networks.ipynb`: Jupyter notebook containing the full data pipeline.
-- `Clustring and Vanila Neural Networks.html`: Compiled HTML report of the findings.
 - `movies_metadata.csv`: The primary dataset used for analysis. https://www.kaggle.com/datasets/sopanmagar/moviesmetadata?resource=download
 - `Report.pdf`: The final academic summary of the findings.
 
