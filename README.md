@@ -6,10 +6,10 @@ An end-to-end data science pipeline utilizing clustering algorithms and deep lea
 This project explores the relationship between film attributes (such as budget, runtime, and ratings) and commercial success. By combining unsupervised machine learning for movie segmentation with deep neural networks for regression, we demonstrate a structured approach to analyzing high-volatility financial datasets.
 
 ## Project Structure
-- `Barekati-404422029-HW2.ipynb`: Jupyter notebook containing the full data pipeline.
-- `Barekati-404422029-HW2.html`: Compiled HTML report of the findings.
+- `Clustring and Vanila Neural Networks.ipynb`: Jupyter notebook containing the full data pipeline.
+- `Clustring and Vanila Neural Networks.html`: Compiled HTML report of the findings.
 - `movies_metadata.csv`: The primary dataset used for analysis.
-- `Report.pdf` (Optional): The final academic summary of the findings.
+- `Report.pdf`: The final academic summary of the findings.
 
 ## Key Phases
 1. **Exploratory Data Analysis (EDA):** Performed cleaning and visualization (histograms, boxplots, scatter plots) to identify trends and outliers in financial metrics.
